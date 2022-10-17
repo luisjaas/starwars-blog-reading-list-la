@@ -1,3 +1,83 @@
+#single{
+    background-color: black;
+    border: solid red 2px;
+    color: white;
+
+}
+
+.card-body{
+    background-color: black;
+}
+.card{
+    border: solid red 2px;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-between;   
+}
+
+.buttonCards{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 50px;
+    width: 150px; 
+    margin-left: 20px;   
+}
+
+.fav{
+    margin-right: 20px;
+}
+
+.container{
+    margin-top: 25px;
+}
+
+.carousel-c{
+    height: auto;
+    width: 100%;
+    border: none;
+    background-color: white;
+    overflow-x: scroll;
+}
+
+.Characters{
+    height: auto;
+    display: flex;
+}
+
+.carousel-p{
+    height: auto;
+    width: 100%;
+    border: none;
+    background-color: white;
+    overflow-x: scroll;
+}
+
+.Planets{
+    height: auto;
+    display: flex;
+}
+
+.carousel-v{
+    height: auto;
+    width: 100%;
+    border: none;
+    background-color: white;
+    overflow-x: scroll;
+}
+
+.Vehicles{
+    height: auto;
+    display: flex;
+}
+
+
+
+
 /*
     home.css: This website contains selectors only used in home.css
 
